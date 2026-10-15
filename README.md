@@ -1,2 +1,2 @@
-# justusfischer.github.io
+jusfis.github.io
 Supabase project Passkeys
